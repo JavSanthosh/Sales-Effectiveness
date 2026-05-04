@@ -58,10 +58,6 @@ This project uses machine learning to classify leads into:
 
 ## Visualizations
 
-### Lead Distribution
-
-![Distribution](images/class_distribution.png)
-
 ### Model Comparison
 
 ![Models](images/model_comparison.png)
